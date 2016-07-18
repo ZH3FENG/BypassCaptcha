@@ -1,8 +1,9 @@
 # BypassCaptcha
 Desc:
+
 A bypass test of bb
 
-More detail:
+More details:
 
 1)The loginTest.go was writen with golang, but it dose not work sometimes. Pherhas something wrong caused by timeout.
 
